@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  I enjoy working with cloud platforms, CI/CD pipelines, and infrastructure as code.<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨  I enjoy working with cloud platforms, CI/CD pipelines, and infrastructure as code.<br>📚 I'm currently learning Terraform...<br>🎯 Goals: To be Devops Engineer<br></p>
 
 ###
 
